@@ -1,0 +1,32 @@
+title: "Simon Chenge - Developer Portfolio"
+description: "Web Developer | Problem Solver | Tech Enthusiast"
+baseurl: ""
+url: "https://simonchenge-ux.github.io"
+
+# Theme
+theme: jekyll-theme-minimal
+
+# Navigation
+nav:
+  - name: Home
+    link: /
+  - name: Projects
+    link: /projects
+  - name: About
+    link: /about
+  - name: Blog
+    link: /blog
+  - name: Contact
+    link: /contact
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO
+twitter:
+  username: simonchenge-ux
+github:
+  username: simonchenge-ux
